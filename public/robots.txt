@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asipofcoffe.com/sitemap-index.xml
+Sitemap: https://kidgluten.com/sitemap-index.xml
