@@ -2,8 +2,7 @@ name: Sync Articles from Google Sheet
 
 on:
   schedule:
-    # Cron disabled until Google Sheet URL is configured — see scripts/sync-sheet.mjs
-    # - cron: '0 * * * *'  # every hour, at minute 0
+    - cron: '0 * * * *'  # every hour, at minute 0
   workflow_dispatch:  # allows manual trigger from GitHub Actions tab
 
 permissions:
