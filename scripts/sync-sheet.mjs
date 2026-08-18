@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 // ============================================
 // CONFIGURATION
 // ============================================
-const CSV_URL = 'REPLACE_ME_WITH_KIDGLUTEN_SHEET_PUBLISHED_CSV_URL';
+const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQFdp4dqHpf-WQVdaOlc9rOaZRnSjHLwC8ICcrsCcK2HUjALW1Or2ZCRJnr0dYJcwyGb5zKYaA0-KXa/pub?gid=987288119&single=true&output=csv';
 
 const ARTICLES_DIR = './src/content/articles';
 const IMAGES_DIR = './public/images';
