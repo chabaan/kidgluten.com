@@ -3,7 +3,7 @@ title: "Easy Kids Fruit Skewers for Camping (No-Cook, Mess-Free)"
 meta: "Easy kids fruit skewers for camping: no-cook, mess-free, and fun to assemble. Get prep tips, safety notes, and a simple recipe the whole family will love."
 category: "Camping Recipes"
 author: "Diana Brooks"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/easy-kids-fruit-skewers-for-camping-no-c.webp"
+image: "/images/easy-kids-fruit-skewers-for-camping-no-cook-mess-free.webp"
 pubDate: "2026-09-23T06:28:11Z"
 recipe: "{\"title\": \"Easy Kids Fruit Skewers for Camping (No-Cook, Mess-Free)\", \"ingredients\": [\"1 cup strawberries, hulled (halved if large)\", \"1 cup green grapes (seedless)\", \"1 cup pineapple chunks (fresh or canned, drained)\", \"1 cup melon balls (cantaloupe or honeydew)\", \"8 wooden skewers (soaked in water 30 minutes)\"], \"instructions\": [\"Wash and prep all fruit: hull strawberries, halve if large, and drain pineapple if using canned.\", \"Soak wooden skewers in water for at least 30 minutes to prevent splintering.\", \"Thread fruit onto skewers in a repeating pattern (e.g., strawberry, grape, pineapple, melon). Leave 1 inch at the bottom for a handle.\", \"Place finished skewers in a single layer in a container lined with a paper towel.\", \"Refrigerate until ready to pack, then transfer to a cooler with ice packs for the trip.\", \"Serve immediately at camp. For little kids, remove the pointed tip or use blunt-end skewers.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

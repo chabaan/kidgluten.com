@@ -3,7 +3,7 @@ title: "Bento Turkey Roll-Ups for Camping: Easy No-Cook Lunch"
 meta: "Make bento turkey roll-ups for camping with this no-cook lunch idea. Easy to pack, sturdy for the trail, and kid-friendly."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/bento-turkey-roll-ups-for-camping-easy-n.webp"
+image: "/images/bento-turkey-roll-ups-for-camping-easy-no-cook-lunch.webp"
 pubDate: "2026-08-29T05:38:24Z"
 recipe: "{\"title\": \"Bento Turkey Roll-Ups for Camping: Easy No-Cook Lunch\", \"ingredients\": [\"8 slices deli turkey breast (thinly sliced)\", \"4 oz cream cheese (softened)\", \"1/4 cup finely chopped bell pepper (any color)\", \"1/4 cup shredded carrots (optional)\", \"4 slices cheddar or Swiss cheese (cut into strips)\", \"1/4 cup baby spinach leaves (optional)\", \"1 tbsp honey mustard or Dijon (optional)\"], \"instructions\": [\"Lay a turkey slice flat on a cutting board. Pat dry with a paper towel if needed.\", \"Spread about 1 tablespoon of cream cheese evenly over the turkey slice.\", \"If using, add a thin layer of honey mustard, then sprinkle with bell pepper and carrots.\", \"Place a strip of cheese and a few spinach leaves (if using) along one edge.\", \"Roll the turkey tightly from the filled edge, tucking in the filling as you go.\", \"Repeat with remaining slices. Wrap each roll in plastic wrap or parchment paper and refrigerate for at least 30 minutes to firm up.\", \"When ready to eat, slice each roll into 1-inch pieces and pack into a bento box or container.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

@@ -3,7 +3,7 @@ title: "Easy Kids Banana Bites for Camping (No-Bake, No Mess)"
 meta: "Easy kids banana bites for camping: a no-bake, no-mess snack idea that keeps little hands busy and bellies happy. Simple steps, minimal gear."
 category: "Camping Recipes"
 author: "Tom Reilly"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/easy-kids-banana-bites-for-camping-no-ba.webp"
+image: "/images/easy-kids-banana-bites-for-camping-no-bake-no-mess.webp"
 pubDate: "2026-09-01T20:20:34Z"
 recipe: "{\"title\": \"Easy Kids Banana Bites for Camping (No-Bake, No Mess)\", \"ingredients\": [\"2 large firm bananas (slightly under-ripe)\", \"1/4 cup peanut butter or sunflower seed butter\", \"1/4 cup mini chocolate chips\", \"1/4 cup granola (crushed slightly)\", \"1 tablespoon lemon juice (optional, to prevent browning)\"], \"instructions\": [\"Peel the bananas and slice them into 1/2-inch thick rounds. If prepping ahead, toss with lemon juice and store in a sealed container.\", \"Spread a thin layer of peanut butter or sunflower seed butter on each banana slice.\", \"Top with mini chocolate chips and crushed granola.\", \"Serve immediately, or arrange on a plate and let kids customize their own bites.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

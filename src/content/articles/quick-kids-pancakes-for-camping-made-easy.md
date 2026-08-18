@@ -3,7 +3,7 @@ title: "Quick Kids Pancakes for Camping Made Easy"
 meta: "Make quick kids pancakes at camp with this simple, no-fuss method. Get the recipe, gear tips, and cleanup tricks for a happy morning."
 category: "Camping Recipes"
 author: "Sara Mitchell"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/quick-kids-pancakes-for-camping-made-eas.webp"
+image: "/images/quick-kids-pancakes-for-camping-made-easy.webp"
 pubDate: "2026-08-20T20:02:43Z"
 recipe: "{\"title\": \"Quick Kids Pancakes for Camping Made Easy\", \"ingredients\": [\"1.5 cups all-purpose flour\", \"2 tablespoons sugar (optional, for sweetness)\", \"1 tablespoon baking powder\", \"0.5 teaspoon salt\", \"1 cup milk (or water, adjust for consistency)\", \"1 large egg\", \"2 tablespoons melted butter or oil (plus more for the pan)\"], \"instructions\": [\"In a large bowl, whisk together flour, sugar, baking powder, and salt.\", \"In a separate bowl, beat the egg, then stir in milk and melted butter or oil.\", \"Pour the wet ingredients into the dry and stir until just combined. Lumps are okay—do not overmix.\", \"Heat a lightly oiled griddle or skillet over medium heat. Test with a drop of water; it should sizzle.\", \"Pour 1/4 cup of batter per pancake. Cook until bubbles form on the surface and edges look set, about 2 minutes.\", \"Flip and cook another 1-2 minutes until golden brown. Repeat with remaining batter.\", \"Serve warm with syrup, fruit, or a sprinkle of cinnamon.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"15\", \"total_time\": null, \"calories\": null}"
 ---

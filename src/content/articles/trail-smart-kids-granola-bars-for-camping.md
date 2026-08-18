@@ -3,7 +3,7 @@ title: "Trail-Smart Kids Granola Bars for Camping"
 meta: "Make quick kids granola bars for camping with this no-bake, no-melt recipe plus smart packing and safety tips for the trail."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/trail-smart-kids-granola-bars-for-campin.webp"
+image: "/images/trail-smart-kids-granola-bars-for-camping.webp"
 pubDate: "2026-09-17T18:28:30Z"
 recipe: "{\"title\": \"Trail-Smart Kids Granola Bars for Camping\", \"ingredients\": [\"2 cups old-fashioned rolled oats\", \"1 cup crispy rice cereal\", \"1/2 cup sunflower seed butter or peanut butter (use sunflower for nut-free)\", \"1/2 cup honey or maple syrup\", \"1 teaspoon vanilla extract\", \"1/4 cup mini chocolate chips (optional, add after cooling)\"], \"instructions\": [\"Line an 8x8-inch baking pan with parchment paper, leaving overhang on two sides.\", \"In a large bowl, combine the oats and crispy rice cereal.\", \"In a small saucepan over low heat, warm the nut butter and honey, stirring until smooth. Remove from heat and stir in vanilla.\", \"Pour the wet mixture over the dry ingredients and stir until everything is well coated.\", \"Press the mixture firmly into the prepared pan. Use a piece of parchment paper to press down hard so the bars hold together.\", \"Refrigerate for at least 1 hour until firm.\", \"Lift out using the parchment overhang and cut into 12 bars.\", \"Store in an airtight container. If adding chocolate chips, press them into the top after cutting.\", \"Pack for camping in a hard-sided container to prevent crushing.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

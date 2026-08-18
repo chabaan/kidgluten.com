@@ -3,7 +3,7 @@ title: "Autism-Friendly Chicken Nuggets for Camping"
 meta: "Make autism-friendly chicken nuggets for camping with this sensory-safe, gluten-free recipe and tips for stress-free outdoor meals."
 category: "Camping Recipes"
 author: "Lucy Hart"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/autism-friendly-chicken-nuggets-for-camp.webp"
+image: "/images/autism-friendly-chicken-nuggets-for-camping.webp"
 pubDate: "2026-09-06T16:59:10Z"
 recipe: "{\"title\": \"Autism-Friendly Chicken Nuggets for Camping\", \"ingredients\": [\"1 lb boneless, skinless chicken breast, cut into 1-inch chunks\", \"1/2 cup all-purpose flour\", \"1 large egg, beaten\", \"1 cup plain panko breadcrumbs (or crushed cornflakes for a finer texture)\", \"1/2 tsp garlic powder (optional)\", \"1/2 tsp salt\", \"1/4 cup neutral oil (canola or avocado), for frying\"], \"instructions\": [\"Set up three shallow bowls: one with flour, one with beaten egg, and one with panko mixed with garlic powder and salt.\", \"Dip each chicken chunk in flour, then egg, then breadcrumbs. Press gently so the coating sticks.\", \"Heat oil in a cast iron skillet over medium heat until shimmering (about 350°F).\", \"Fry nuggets in batches, 4–5 minutes per side, until golden brown and internal temperature reaches 165°F.\", \"Drain on paper towels. Serve warm with a familiar dipping sauce, or let cool and pack for camping.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"12\", \"total_time\": null, \"calories\": null}"
 ---

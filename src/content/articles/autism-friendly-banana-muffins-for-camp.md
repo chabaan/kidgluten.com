@@ -3,7 +3,7 @@ title: "Autism-Friendly Banana Muffins for Camp"
 meta: "Easy autism-friendly banana muffins for camping: simple texture, mild flavor, and make-ahead tips. A sensory-safe treat for the trail."
 category: "Breakfast &amp; Brunch"
 author: "Tom Reilly"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/autism-friendly-banana-muffins-for-camp.webp"
+image: "/images/autism-friendly-banana-muffins-for-camp.webp"
 pubDate: "2026-09-16T03:07:25Z"
 recipe: "{\"title\": \"Autism-Friendly Banana Muffins for Camp\", \"ingredients\": [\"3 large ripe bananas (mashed well)\", \"1/3 cup melted coconut oil or neutral oil (cooled)\", \"1/2 cup honey or maple syrup (mild flavor)\", \"2 large eggs (room temperature)\", \"1 teaspoon vanilla extract (optional)\", \"1 3/4 cups all-purpose flour (or gluten-free blend)\", \"1 teaspoon baking soda\", \"1/2 teaspoon salt\", \"1/2 cup mini chocolate chips (optional, for extra sensory fun)\"], \"instructions\": [\"Preheat oven to 350°F (175°C). Line a 12-cup muffin tin with paper liners or grease well.\", \"In a large bowl, mash the bananas with a fork until smooth and almost liquid.\", \"Stir in the melted oil, honey, eggs, and vanilla until well combined.\", \"Add the flour, baking soda, and salt. Stir with the fork just until no dry streaks remain. Do not overmix; lumps are fine.\", \"Fold in chocolate chips if using.\", \"Divide the batter evenly among the muffin cups, filling each about 3/4 full.\", \"Bake for 18-22 minutes, until a toothpick inserted in the center comes out clean.\", \"Cool in the pan for 5 minutes, then transfer to a wire rack to cool completely before storing.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"10\", \"cook_time\": \"20\", \"total_time\": null, \"calories\": null}"
 ---

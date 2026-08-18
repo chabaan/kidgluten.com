@@ -3,7 +3,7 @@ title: "No-Bake Energy Balls Kids Love (Camping Snack)"
 meta: "Make no-bake kids energy balls for camping with this easy recipe. No oven needed, kid-friendly, and perfect for trail snacks."
 category: "Camping Recipes"
 author: "Diana Brooks"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/no-bake-energy-balls-kids-love-camping-s.webp"
+image: "/images/no-bake-energy-balls-kids-love-camping-snack.webp"
 pubDate: "2026-08-29T03:43:08Z"
 recipe: "{\"title\": \"No-Bake Energy Balls Kids Love (Camping Snack)\", \"ingredients\": [\"1 cup old-fashioned rolled oats (use quick oats for a softer texture)\", \"1/2 cup creamy peanut butter (or any nut/seed butter)\", \"1/3 cup honey (or maple syrup for vegan)\", \"1/4 cup mini chocolate chips (optional, or use dried cranberries)\", \"1/4 cup ground flaxseed (adds fiber and helps bind)\", \"1/2 teaspoon vanilla extract\", \"1 pinch salt (optional, balances sweetness)\"], \"instructions\": [\"In a medium bowl, combine oats, peanut butter, honey, chocolate chips, flaxseed, vanilla, and salt.\", \"Stir with a sturdy spoon until everything is evenly mixed. The mixture should hold together when pressed.\", \"If it's too dry, add a teaspoon of honey or water. If too sticky, add a tablespoon of oats.\", \"Scoop out heaping tablespoonfuls and roll into 1-inch balls with your hands.\", \"Place on a plate or tray and refrigerate for 15 minutes to firm up (optional but helps them hold shape).\", \"Store in an airtight container. At camp, keep in a cooler or shade.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

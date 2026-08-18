@@ -3,7 +3,7 @@ title: "Kid-Approved Mac and Cheese for Camping"
 meta: "Make kid-approved mac and cheese at camp with our no-fail method, gear tips, and a one-pot recipe that's creamy, cozy, and easy to clean up."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/kid-approved-mac-and-cheese-for-camping.webp"
+image: "/images/kid-approved-mac-and-cheese-for-camping.webp"
 pubDate: "2026-09-14T18:14:41Z"
 recipe: "{\"title\": \"Kid-Approved Mac and Cheese for Camping\", \"ingredients\": [\"1 lb elbow macaroni\", \"4 tbsp butter (unsalted, cut into pieces)\", \"1 can evaporated milk (12 oz)\", \"2 cups sharp cheddar cheese (shredded from a block)\", \"1 cup Monterey Jack cheese (shredded)\", \"1/2 tsp salt (plus more for pasta water)\", \"1/4 tsp garlic powder (optional)\", \"1/4 tsp ground mustard (optional)\"], \"instructions\": [\"Boil a pot of water over your camp stove. Add a generous pinch of salt, then cook the macaroni until just shy of al dente (about 1 minute less than package directions).\", \"Drain the pasta and return it to the pot. Turn the heat to low.\", \"Add the butter and stir until melted.\", \"Pour in the evaporated milk and stir to combine. Keep the heat low to avoid curdling.\", \"Add the shredded cheeses in handfuls, stirring constantly until each batch melts into a smooth sauce.\", \"Season with salt, garlic powder, and ground mustard if using. Stir well.\", \"Serve immediately, or keep warm over very low heat, stirring occasionally. Add a splash of milk if it thickens too much.\"], \"equipment\": [], \"servings\": \"6\", \"prep_time\": \"10\", \"cook_time\": \"20\", \"total_time\": null, \"calories\": null}"
 ---

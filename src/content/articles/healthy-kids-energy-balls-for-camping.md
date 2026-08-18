@@ -3,7 +3,7 @@ title: "Healthy Kids Energy Balls for Camping"
 meta: "Make healthy kids energy balls for camping with this no-bake recipe. Packed with oats, nut butter, and seeds for trail-ready fuel."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/healthy-kids-energy-balls-for-camping.webp"
+image: "/images/healthy-kids-energy-balls-for-camping.webp"
 pubDate: "2026-08-17T18:57:06Z"
 recipe: "{\"title\": \"Healthy Kids Energy Balls for Camping\", \"ingredients\": [\"1 cup old-fashioned rolled oats (certified gluten-free if needed)\", \"1/2 cup natural peanut butter (or sunflower seed butter for nut-free)\", \"1/3 cup honey or maple syrup\", \"1/2 cup pitted dates, finely chopped (soft and sticky)\", \"1/4 cup ground flaxseed\", \"1/4 cup mini chocolate chips (optional)\", \"1/2 tsp vanilla extract\", \"1 pinch salt (optional)\"], \"instructions\": [\"In a large bowl, mix the oats, flaxseed, and salt (if using).\", \"Add the peanut butter, honey, vanilla, and chopped dates. Stir until everything is well combined.\", \"If the mixture is too dry, add 1 tablespoon of water at a time until it clumps together. If too sticky, add a few more oats.\", \"Fold in the chocolate chips (if using).\", \"Roll the mixture into 12 balls, each about 1 inch in diameter.\", \"Place the balls on a plate or tray and refrigerate for 30 minutes to firm up.\", \"Store in an airtight container in the fridge for up to a week, or pack in a cooler for camping.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

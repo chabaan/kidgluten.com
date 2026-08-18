@@ -3,7 +3,7 @@ title: "Sensory-Friendly Oatmeal for Calm Camp Mornings"
 meta: "Make sensory-friendly oatmeal at camp with texture, temperature, and aroma tips that soothe. A cozy, gentle breakfast for sensitive eaters."
 category: "Breakfast &amp; Brunch"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/sensory-friendly-oatmeal-for-calm-camp-m.webp"
+image: "/images/sensory-friendly-oatmeal-for-calm-camp-mornings.webp"
 pubDate: "2026-09-22T02:20:55Z"
 recipe: "{\"title\": \"Sensory-Friendly Oatmeal for Calm Camp Mornings\", \"ingredients\": [\"1 cup fine or quick oats (not steel-cut or thick rolled)\", \"2 cups water (or milk for a creamier texture)\", \"1 pinch salt (optional, helps balance flavor)\", \"1 tablespoon maple syrup (or honey, adjust to taste)\", \"1 medium banana (mashed, or substitute applesauce)\"], \"instructions\": [\"In a small pot, bring water (or milk) to a gentle simmer over medium heat.\", \"Slowly whisk in the oats and salt, if using. Keep whisking for 1 minute to prevent lumps.\", \"Reduce heat to low and simmer for 5–7 minutes, stirring occasionally, until the oats are soft and fully absorbed.\", \"Remove from heat and let sit, covered, for 3 minutes. This allows the texture to become extra smooth.\", \"Stir in the maple syrup and mashed banana (or applesauce) until fully incorporated.\", \"Serve warm in a shallow bowl. Add a splash of milk if a thinner consistency is preferred.\"], \"equipment\": [], \"servings\": \"2\", \"prep_time\": \"5\", \"cook_time\": \"10\", \"total_time\": null, \"calories\": null}"
 ---

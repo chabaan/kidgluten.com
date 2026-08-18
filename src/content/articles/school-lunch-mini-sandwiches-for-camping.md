@@ -3,7 +3,7 @@ title: "School Lunch Mini Sandwiches for Camping"
 meta: "Make school lunch mini sandwiches for camping with these packable, no-cook ideas. Get tips for keeping them fresh and safe in a cooler."
 category: "Camping Recipes"
 author: "Tom Reilly"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/school-lunch-mini-sandwiches-for-camping.webp"
+image: "/images/school-lunch-mini-sandwiches-for-camping.webp"
 pubDate: "2026-09-04T01:41:45Z"
 recipe: "{\"title\": \"School Lunch Mini Sandwiches for Camping\", \"ingredients\": [\"8 slider buns or mini croissants (or small soft rolls)\", \"1/2 cup cream cheese or hummus (for spreading)\", \"4 slices ham or turkey (folded small)\", \"4 slices cheese (cheddar or Swiss) (cut to fit)\", \"1/2 cup cucumber or apple slices (thinly sliced)\", \"2 tbsp mustard or mayo (optional)\"], \"instructions\": [\"Slice the slider buns in half horizontally, keeping the tops and bottoms together.\", \"Spread a thin layer of cream cheese or hummus on both cut sides of each bun to create a moisture barrier.\", \"Layer a folded slice of ham or turkey on the bottom half of each bun.\", \"Add a slice of cheese, folding to fit if needed.\", \"Top with cucumber or apple slices for crunch.\", \"Add a small dollop of mustard or mayo if desired.\", \"Place the top half of the bun over the filling and press gently.\", \"Wrap each sandwich tightly in plastic wrap or place in a reusable container. Store in a cooler until ready to eat.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

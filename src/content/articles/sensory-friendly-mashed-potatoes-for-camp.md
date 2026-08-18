@@ -3,7 +3,7 @@ title: "Sensory-Friendly Mashed Potatoes for Camp"
 meta: "Sensory-friendly mashed potatoes for camping: smooth, comforting texture with simple prep and cozy campfire flavor."
 category: "Camping Recipes"
 author: "Sara Mitchell"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/sensory-friendly-mashed-potatoes-for-cam.webp"
+image: "/images/sensory-friendly-mashed-potatoes-for-camp.webp"
 pubDate: "2026-08-31T18:41:20Z"
 recipe: "{\"title\": \"Sensory-Friendly Mashed Potatoes for Camp\", \"ingredients\": [\"2 cups instant potato flakes\", \"2 cups water\", \"1 cup whole milk or unsweetened plant milk\", \"3 tablespoons unsalted butter (plus extra for serving)\", \"1/2 teaspoon salt (adjust to taste)\"], \"instructions\": [\"Heat the water and milk together in a pot over medium heat until steaming, but not boiling.\", \"Remove from heat and stir in the butter and salt until melted.\", \"Gradually whisk in the potato flakes, stirring constantly, until smooth and creamy. Let stand for 1 minute to thicken.\", \"Whisk again until fluffy. Adjust seasoning if needed.\", \"Serve warm, with extra butter on the side if desired.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"5\", \"cook_time\": \"10\", \"total_time\": null, \"calories\": null}"
 ---

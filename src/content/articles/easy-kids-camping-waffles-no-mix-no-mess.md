@@ -3,7 +3,7 @@ title: "Easy Kids Camping Waffles (No Mix, No Mess)"
 meta: "Easy kids camping waffles made in a pie iron over the fire. No mix, no mess – just bread, filling, and a few minutes of campfire fun."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/easy-kids-camping-waffles-no-mix-no-mess.webp"
+image: "/images/easy-kids-camping-waffles-no-mix-no-mess.webp"
 pubDate: "2026-09-08T04:12:54Z"
 recipe: "{\"title\": \"Easy Kids Camping Waffles (No Mix, No Mess)\", \"ingredients\": [\"8 slices thick-cut bread (like Texas toast or sourdough) (sturdy enough to hold fillings)\", \"4 tablespoons butter (softened, for spreading)\", \"1/2 cup chocolate hazelnut spread (or peanut butter, or jam)\", \"1 large banana (sliced (optional))\", \"1 cup mini marshmallows (optional, for extra gooeyness)\"], \"instructions\": [\"Preheat your pie iron over the campfire for 1-2 minutes until it's hot but not smoking.\", \"Spread a light layer of butter on one side of each bread slice.\", \"Place one slice of bread, buttered side down, into the open pie iron.\", \"Spread a generous spoonful of chocolate hazelnut spread (or your chosen filling) on the bread, then add banana slices or marshmallows if using.\", \"Top with the second slice of bread, buttered side up, and close the pie iron firmly.\", \"Hold the pie iron over the fire, turning every 30-45 seconds, for 3-4 minutes per side, until the bread is golden brown and the filling is warm.\", \"Carefully open the pie iron over a plate, let cool for a minute, then serve. Repeat for the remaining sandwiches.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"12\", \"total_time\": null, \"calories\": null}"
 ---

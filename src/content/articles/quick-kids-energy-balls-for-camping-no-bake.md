@@ -3,7 +3,7 @@ title: "Quick Kids Energy Balls for Camping (No-Bake)"
 meta: "Make quick kids energy balls for camping with this no-bake, no-melt recipe. High-energy, kid-friendly, and easy to pack for tent adventures."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/quick-kids-energy-balls-for-camping-no-b.webp"
+image: "/images/quick-kids-energy-balls-for-camping-no-bake.webp"
 pubDate: "2026-08-22T22:20:03Z"
 recipe: "{\"title\": \"Quick Kids Energy Balls for Camping (No-Bake)\", \"ingredients\": [\"1 cup old-fashioned rolled oats (not instant)\", \"1/2 cup creamy peanut butter (or sunflower seed butter)\", \"1/3 cup honey (or maple syrup)\", \"1/2 cup mini chocolate chips (optional, or cacao nibs for lower melt)\", \"1/4 cup ground flaxseed (optional)\", \"1/2 tsp vanilla extract\", \"1 pinch salt\"], \"instructions\": [\"In a medium bowl, combine the oats, peanut butter, honey, chocolate chips (if using), flaxseed, vanilla, and salt. Stir until everything is evenly mixed and the mixture holds together when pressed.\", \"If the mixture is too dry, add a teaspoon of honey or water. If too sticky, add a tablespoon of oats.\", \"Using your hands, roll the mixture into 1-inch balls. You should get about 12 balls.\", \"Place the balls on a parchment-lined tray or plate. Refrigerate for at least 30 minutes to firm up before packing.\", \"Store in an airtight container in the cooler. They'll keep for up to 3 days at camp, or up to a week in the fridge.\"], \"equipment\": [], \"servings\": \"12\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---

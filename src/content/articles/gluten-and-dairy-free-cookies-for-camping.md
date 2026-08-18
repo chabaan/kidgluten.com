@@ -3,7 +3,7 @@ title: "Gluten and Dairy Free Cookies for Camping"
 meta: "Make gluten and dairy free cookies for your next trip with these camp-friendly tips, no-fail recipes, and storage hacks."
 category: "Gluten-Free Breakfast"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/gluten-and-dairy-free-cookies-for-campin.webp"
+image: "/images/gluten-and-dairy-free-cookies-for-camping.webp"
 pubDate: "2026-09-02T01:56:45Z"
 recipe: "{\"title\": \"Gluten and Dairy Free Cookies for Camping\", \"ingredients\": [\"2 cups gluten-free all-purpose flour (with xanthan gum)\", \"1 teaspoon baking soda\", \"1/2 teaspoon salt\", \"1/2 cup coconut oil (solid, not melted)\", \"3/4 cup brown sugar (packed)\", \"1/4 cup maple syrup\", \"1 large egg (or flax egg for vegan)\", \"1 teaspoon vanilla extract\", \"1 cup dairy-free chocolate chips\"], \"instructions\": [\"Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.\", \"In a medium bowl, whisk together gluten-free flour, baking soda, and salt.\", \"In a large bowl, beat coconut oil and brown sugar until creamy. Add maple syrup, egg, and vanilla, mixing well.\", \"Gradually add dry ingredients to wet, mixing until just combined. Fold in chocolate chips.\", \"Scoop dough by rounded tablespoons onto the prepared baking sheet, spacing 2 inches apart.\", \"Bake for 10-12 minutes until edges are golden. Let cool on the pan for 5 minutes, then transfer to a wire rack.\"], \"equipment\": [], \"servings\": \"24\", \"prep_time\": \"15\", \"cook_time\": \"12\", \"total_time\": null, \"calories\": null}"
 ---

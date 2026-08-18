@@ -3,7 +3,7 @@ title: "Fussy Eater Pasta: 7 Camping Tricks That Work"
 meta: "Fussy eater pasta at camp? Try these 7 proven tent-camping tricks, from build-your-own bars to one-pot sauces, to win over picky kids."
 category: "Camping Recipes"
 author: "Tom Reilly"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/fussy-eater-pasta-7-camping-tricks-that-.webp"
+image: "/images/fussy-eater-pasta-7-camping-tricks-that-work.webp"
 pubDate: "2026-08-27T17:11:30Z"
 recipe: "{\"title\": \"Fussy Eater Pasta: 7 Camping Tricks That Work\", \"ingredients\": [\"8 oz small pasta (shells or rotini)\", \"1 tbsp olive oil (for the pot)\", \"1 can (15 oz) tomato sauce (plain, no added herbs)\", \"1 tsp dried oregano (optional, for adults)\", \"1/2 cup shredded mild cheddar cheese (for topping)\", \"1/4 cup grated parmesan cheese (for topping)\", \"1/2 cup diced cooked chicken or chickpeas (optional protein)\", \"1 cup steamed broccoli florets (optional, cut small)\", \"to taste salt\"], \"instructions\": [\"Boil 4 cups of water in a large pot over your camp stove. Add a pinch of salt.\", \"Add the pasta and cook according to package directions until al dente, usually 8-10 minutes.\", \"Drain the pasta in a colander and return it to the pot. Drizzle with olive oil and stir to coat.\", \"Pour the tomato sauce into the pot with the pasta. Stir gently over low heat until everything is warm, about 3 minutes.\", \"Serve in bowls. Set out the cheese, protein, and broccoli in separate small containers so each person can add what they like.\", \"For adults, sprinkle oregano on top. Let the fussy eater skip it or add their own.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"10\", \"cook_time\": \"20\", \"total_time\": null, \"calories\": null}"
 ---

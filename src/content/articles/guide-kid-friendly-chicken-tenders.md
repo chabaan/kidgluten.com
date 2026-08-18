@@ -3,7 +3,7 @@ title: "Guide: Kid-Friendly chicken tenders"
 meta: "{   \"title\": \"Crispy Kid-Friendly Chicken Tenders for Camp\",   \"meta_description\": \"Make kid-friendly chicken tenders at your campsite with this foolproo"
 category: "Main Course"
 author: "Sara Mitchell"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/guide-kid-friendly-chicken-tenders.webp"
+image: "/images/guide-kid-friendly-chicken-tenders.webp"
 pubDate: "2026-09-15T22:01:51Z"
 ---
 

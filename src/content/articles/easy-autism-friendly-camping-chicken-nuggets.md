@@ -3,7 +3,7 @@ title: "Easy Autism-Friendly Camping Chicken Nuggets"
 meta: "Discover easy autism-friendly chicken nuggets for camping trips—simple texture, mild flavor, and fun to make over a campfire or stove."
 category: "Camping Recipes"
 author: "Emma Lawson"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/easy-autism-friendly-camping-chicken-nug.webp"
+image: "/images/easy-autism-friendly-camping-chicken-nuggets.webp"
 pubDate: "2026-09-08T16:34:00Z"
 recipe: "{\"title\": \"Easy Autism-Friendly Camping Chicken Nuggets\", \"ingredients\": [\"1 lb boneless skinless chicken breast, cut into 1-inch pieces\", \"1 cup plain Greek yogurt (or buttermilk for a milder tang)\", \"1 cup finely crushed cornflakes (or panko breadcrumbs)\", \"1/2 cup all-purpose flour\", \"1 tsp garlic powder (optional, for mild flavor)\", \"1/2 tsp salt\", \"1/4 tsp black pepper (optional, omit for sensitive palates)\", \"1/2 cup vegetable oil (for frying, plus more as needed)\"], \"instructions\": [\"In a bowl, mix the chicken pieces with Greek yogurt (or buttermilk). Let sit for 10 minutes to tenderize.\", \"In a shallow dish, combine crushed cornflakes, flour, garlic powder, salt, and pepper.\", \"Heat oil in a cast iron skillet over medium heat until shimmering (about 350°F).\", \"Dredge each chicken piece in the flour mixture, pressing to coat well.\", \"Place nuggets in the skillet without crowding. Cook for 4-5 minutes per side, until golden brown and cooked through (internal temp 165°F).\", \"Drain on paper towels. Serve warm with mild dips like ketchup or honey.\"], \"equipment\": [], \"servings\": \"4\", \"prep_time\": \"15\", \"cook_time\": \"10\", \"total_time\": null, \"calories\": null}"
 ---

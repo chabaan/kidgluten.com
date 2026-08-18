@@ -3,7 +3,7 @@ title: "No-Bake Kids Banana Bites for Camping"
 meta: "Easy no-bake kids banana bites for tent camping: a fun, healthy trail snack with peanut butter, oats, and chocolate. Perfect for cozy campsite treats."
 category: "Camping Recipes"
 author: "Nadia Khan"
-image: "https://kidgluten.com/wp-content/uploads/2026/08/no-bake-kids-banana-bites-for-camping.webp"
+image: "/images/no-bake-kids-banana-bites-for-camping.webp"
 pubDate: "2026-09-09T01:18:06Z"
 recipe: "{\"title\": \"No-Bake Kids Banana Bites for Camping\", \"ingredients\": [\"2 medium ripe bananas, mashed (about 1 cup)\", \"1 cup old-fashioned rolled oats (use gluten-free if needed)\", \"1/2 cup creamy peanut butter (or any nut/seed butter)\", \"1/4 cup mini chocolate chips (optional but delicious)\", \"1/2 teaspoon vanilla extract (optional)\", \"1 pinch salt (optional, enhances flavor)\"], \"instructions\": [\"In a medium bowl, mash the ripe bananas with a fork until smooth.\", \"Add the peanut butter, vanilla (if using), and salt. Stir until well combined.\", \"Fold in the rolled oats and chocolate chips until the mixture holds together.\", \"Scoop out tablespoon-sized portions and roll into balls with your hands.\", \"Place the bites on a parchment-lined tray or plate.\", \"Refrigerate for at least 30 minutes to firm up, or serve immediately if you're in a hurry.\", \"Store leftovers in an airtight container in the cooler.\"], \"equipment\": [], \"servings\": \"16\", \"prep_time\": \"15\", \"cook_time\": \"0\", \"total_time\": null, \"calories\": null}"
 ---
